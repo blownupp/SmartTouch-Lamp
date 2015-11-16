@@ -15,7 +15,3 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
-
-# SketchUp
-*.skp    diff=raw
-*.skb
